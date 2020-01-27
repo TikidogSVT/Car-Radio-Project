@@ -1,4 +1,4 @@
-# ProjectPontiac - Refitted for MustangRadio
+## Alan's Car Radio Project
 ## Car Computer Repository
 
 This project is a work in progress for a fully functioning car computer utilizing a Raspberry Pi and the Official Raspberry Pi touchscreen.
